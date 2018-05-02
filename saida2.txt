@@ -1,0 +1,82 @@
+	..::Tabela de Simbolos::..
+
+---------------------------------------------
+Lexema: 6
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: 45815010
+---------------------------------------------
+Lexema: +
+Token: Operator
+Padrao: Operadores aritmeticos +, -, *, /, %, ^ 
+Ocorrencia: 45815012
+---------------------------------------------
+Lexema: 4
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: 45815014
+---------------------------------------------
+Lexema: -
+Token: Operator
+Padrao: Operadores aritmeticos +, -, *, /, %, ^ 
+Ocorrencia: 45815016
+---------------------------------------------
+Lexema: 2
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: 45815018
+---------------------------------------------
+Lexema: *
+Token: Operator
+Padrao: Operadores aritmeticos +, -, *, /, %, ^ 
+Ocorrencia: 45815020
+---------------------------------------------
+Lexema: 2
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: 45815020
+---------------------------------------------
+Lexema: %
+Token: Operator
+Padrao: Operadores aritmeticos +, -, *, /, %, ^ 
+Ocorrencia: 45815022
+---------------------------------------------
+Lexema: 6
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: 45815022
+---------------------------------------------
+Lexema: *
+Token: Operator
+Padrao: Operadores aritmeticos +, -, *, /, %, ^ 
+Ocorrencia: 45815022
+---------------------------------------------
+Lexema: 4
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: 45815022
+---------------------------------------------
+Lexema: +
+Token: Operator
+Padrao: Operadores aritmeticos +, -, *, /, %, ^ 
+Ocorrencia: 45815022
+---------------------------------------------
+Lexema: 1
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: 45815024
+---------------------------------------------
+Lexema: -
+Token: Operator
+Padrao: Operadores aritmeticos +, -, *, /, %, ^ 
+Ocorrencia: 45815024
+---------------------------------------------
+Lexema: 2
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: 45815024
+---------------------------------------------
+Lexema: 3
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: 45815026
