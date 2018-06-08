@@ -1,0 +1,41 @@
+
+Lexema: y
+Token: Id
+Padrao: Letra seguida por letras ou/e digitos
+Ocorrencia: db8bba28
+---------------------------------------------
+Lexema: 3
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: db8bdef8
+---------------------------------------------
+Lexema: +
+Token: Operator
+Padrao: Operadores aritmeticos +, -, *, /, %
+Ocorrencia: db8bdf98
+---------------------------------------------
+Lexema: y
+Token: Id
+Padrao: Letra seguida por letras ou/e digitos
+Ocorrencia: db8be038
+---------------------------------------------
+Lexema: *
+Token: Operator
+Padrao: Operadores aritmeticos +, -, *, /, %
+Ocorrencia: db8be0d8
+---------------------------------------------
+Lexema: 2
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: db8be178
+---------------------------------------------
+Lexema: /
+Token: Operator
+Padrao: Operadores aritmeticos +, -, *, /, %
+Ocorrencia: db8be218
+---------------------------------------------
+Lexema: 6
+Token: Number
+Padrao: Qualquer constante numerica
+Ocorrencia: db8be2b8
+---------------------------------------------
