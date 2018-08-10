@@ -1,0 +1,61 @@
+
+Lexema: abc
+Token: ID
+Padrao: Letra seguida por letras ou/e digitos
+Ocorrencia: Linha 1 Coluna 1
+---------------------------------------------
+
+Lexema: 3
+Token: NUMBER
+Padrao: Qualquer constante numerica
+Ocorrencia: Linha 1 Coluna 2
+---------------------------------------------
+
+Lexema: *
+Token: OPERATOR
+Padrao: Operadores aritmeticos +, -, *, /, %, ^
+Ocorrencia: Linha 1 Coluna 3
+---------------------------------------------
+
+Lexema: 3
+Token: NUMBER
+Padrao: Qualquer constante numerica
+Ocorrencia: Linha 1 Coluna 2
+---------------------------------------------
+
+Lexema: /
+Token: OPERATOR
+Padrao: Operadores aritmeticos +, -, *, /, %, ^
+Ocorrencia: Linha 1 Coluna 4
+---------------------------------------------
+
+Lexema: abc
+Token: ID
+Padrao: Letra seguida por letras ou/e digitos
+Ocorrencia: Linha 1 Coluna 1
+---------------------------------------------
+
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores aritmeticos +, -, *, /, %, ^
+Ocorrencia: Linha 1 Coluna 5
+---------------------------------------------
+
+Lexema: X
+Token: ID
+Padrao: Letra seguida por letras ou/e digitos
+Ocorrencia: Linha 1 Coluna 6
+---------------------------------------------
+
+Lexema: +
+Token: OPERATOR
+Padrao: Operadores aritmeticos +, -, *, /, %, ^
+Ocorrencia: Linha 1 Coluna 5
+---------------------------------------------
+
+Lexema: X
+Token: ID
+Padrao: Letra seguida por letras ou/e digitos
+Ocorrencia: Linha 1 Coluna 6
+---------------------------------------------
+

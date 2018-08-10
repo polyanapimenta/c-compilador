@@ -1,0 +1,1 @@
+<id,1> <=> <(> <num,2> <operator,3> <num,2> <)> <operator,4> <id,1> <operator,5> <id,6> <operator,5> <id,6> <;> 
